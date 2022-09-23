@@ -1,0 +1,24 @@
+body
+{
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+}
+
+h1
+{
+    font-size: 1000
+    
+}
+
+ul
+{
+    color: orange;
+}
+
+p
+{
+    letter-spacing: 1px;
+    font-family:"Arial";
+    font-style: italic;
+}
