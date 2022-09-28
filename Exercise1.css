@@ -5,20 +5,20 @@ body
     margin: 0 auto;
 }
 
-h1
+h1, h2
 {
-    font-size: 1000
-    
+    font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 ul
 {
+    font-size: large;
     color: orange;
 }
 
 p
 {
     letter-spacing: 1px;
-    font-family:"Arial";
-    font-style: italic;
+    font-family:"Helvetica Neue", "Arial", sans-serif;
 }
